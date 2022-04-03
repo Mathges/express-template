@@ -1,0 +1,17 @@
+{
+  "name": "server_only",
+  "version": "1.0.0",
+  "description": "version simplifiée du serveur",
+  "main": "app.js",
+  "scripts": {
+    "start": "node-dev app.js"
+  },
+  "author": "Mathges",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3"
+  },
+  "devDependencies": {
+    "node-dev": "^7.4.2"
+  }
+}
