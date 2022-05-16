@@ -27,7 +27,9 @@
 
 ## Not to Forget & Utils
 
+- api doc
 - eslint
 - script db:reset
 - implémentation d'un endpoint (route + controller.method)
 - Sécurity checks
+- testing
