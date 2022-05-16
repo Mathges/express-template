@@ -2,28 +2,41 @@
 
 ## ROADMAP
 
-- Conception :
-  - Création MCD
-  - Création MLD
-  - Définition User_stories
-  - Définition Endpoints
-  - Recensement Packages et Technos à utiliser
-  - Définition de l'archi de l'app (*ici MVC*) :
-    - Définition des **Modèles** à implémenter
-    - Définition des **Controllers** à implémenter
+### Conception
 
-- Création de la DB (*ici SGBD relationnel => postgres*):
-  - Création de la **db** et du **user** via postgres
-  - Génération du script de création de tables `create_tables.sql`
-  - Génération du script de seeding de datas `data_seeder.sql`
+- Création MCD
+- Création MLD
+- Définition User_stories
+- Définition Endpoints
+- Recensement Packages et Technos à utiliser
+- Définition de l'archi de l'app (*ici MVC*) :
+  - Définition des **Modèles** à implémenter
+  - Définition des **Controllers** à implémenter
 
-- Initialisation de l'app :
-  - Installation des Packages
-  - Création des Dossiers et Fichiers
+---
 
-- Implémentation des **Modèles** et des **Relations**
+### Création de la DB (*ici SGBD relationnel => postgres*)
 
-- Implémentation des **Routes** et des **Endpoints**
+- Création de la **db** et du **user** via postgres
+- Génération du script de création de tables `create_tables.sql`
+- Génération du script de seeding de datas `data_seeder.sql`
+
+---
+
+### Initialisation de l'app
+
+- Installation des Packages
+- Création des Dossiers et Fichiers
+
+---
+
+### Implémentation des *Modèles* et des *Relations*
+
+---
+
+### Implémentation des *Routes** et des **Endpoints*
+
+---
 
 ## Not to Forget & Utils
 
