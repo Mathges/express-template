@@ -1,0 +1,32 @@
+{
+  "name": "endpoint_template",
+  "version": "1.0.0",
+  "description": "Template de création de Backend",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "start": "node .",
+    "dev": "nodemon ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mathges/express-template.git"
+  },
+  "author": "Mathges",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mathges/express-template/issues"
+  },
+  "homepage": "https://github.com/Mathges/express-template#readme",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "pg": "^8.7.3",
+    "sequelize": "^6.19.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}

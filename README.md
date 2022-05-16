@@ -27,6 +27,9 @@
 
 - Installation des Packages
 - Création des Dossiers et Fichiers
+- Création de l'instance de serveur
+- Création du router
+- Création de l'instance de database
 
 ---
 
