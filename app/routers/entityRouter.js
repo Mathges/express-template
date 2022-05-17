@@ -1,3 +1,5 @@
+//! Dans ce fichier on définit les routes relatives à l'entitée
+
 // imports
 const { Router } = require('express');
 const entityController = require('../controllers/entityController');

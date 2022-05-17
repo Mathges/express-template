@@ -14,6 +14,8 @@ app.use(express.urlencoded({ extended: true }));
 //* définition du dossier static
 app.use(express.static('public'));
 
+//* utlilisation du router
+app.use(router);
 
 // Démarrage de l'App
 
